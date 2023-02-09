@@ -1,4 +1,6 @@
 # autoping
+This is a begginer project that I wanted to work on in order to get my metaphorical "foot in the door" with software/scripting
+
 AutoPing project for network logging and displaying successes and faults to a csv.
 
 This project uses the os package and the datetime package.
@@ -23,5 +25,7 @@ This project also utilizes command line tools to create files and execute files 
 Please read the script fully before running it and make changes as you see it be necessary.
 
 Feel free to reach out via GitHub comments and/or emailing me at: gtengler@proton.me
+
+And make sure to visit https://gtengler.xyz for updates and changes!
 
  
